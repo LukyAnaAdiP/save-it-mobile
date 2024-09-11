@@ -1,0 +1,1 @@
+This is for mobile development using react native.
